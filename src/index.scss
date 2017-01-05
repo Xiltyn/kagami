@@ -1,0 +1,17 @@
+@import "partials/_normalize.scss";
+@import "partials/_variables.scss";
+
+html {
+  font-size: 62.5%;
+}
+
+.app {
+  height: 100vh;
+  width: 100vw;
+}
+
+.kg-menubar {
+  width: 100vw;
+  height: 7rem;
+  background-color: $kg-tangelo;
+}
