@@ -2,6 +2,7 @@
   "dependencies": {
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
+    "react-inlinesvg": "^0.5.5",
     "react-router": "^2.4.0"
   },
   "devDependencies": {
@@ -67,10 +68,6 @@
     "extends": [
       "xo-react/space",
       "xo-space/esnext"
-    ],
-    "linebreak-style": [
-      "error",
-      "unix"
     ]
   }
 }
